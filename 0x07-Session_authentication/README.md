@@ -65,4 +65,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Brent Muha** - [bmuha1](github.com/bmuha1)
+* **Akeem Seymens** - [akeemseymens](github.com/akeemseymens)
