@@ -47,4 +47,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Brent Muha** - [akeemseymens](github.com/akeemseymens)
+* **Akeem Seymens** - [akeemseymens](github.com/akeemseymens)
